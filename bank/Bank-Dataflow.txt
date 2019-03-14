@@ -1,0 +1,29 @@
+Description
+Intending customers details must be sent to the 
+Audit
+
+Supplied Customer data must be seen by the Cust-
+omer care officer before opening account
+
+All transaction details must be recorded
+
+
+Send all customers details to CBN
+
+
+Third party is not allowed to access customer's acc-
+ount details
+
+Verify Customer's data and signature before perm-
+itting withdrawal
+
+Customer's full name, address and date of birth 
+must be verified before account opening process is
+done
+
+Cheque recipient data must be checked by withd-
+rawal officer before cashing the cheque
+
+The information of the guarantors should be attac-
+hed to the loan request form and sent to the credit
+unit officer
